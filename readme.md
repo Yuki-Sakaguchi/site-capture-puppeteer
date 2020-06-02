@@ -2,7 +2,8 @@
 
 # 実行
 ```
-npm run capture
+npm run capture01
+npm run capture02
 ```
 
 # 読み方
@@ -23,26 +24,3 @@ npm run capture
   * https://qiita.com/rh_taro/items/32bb6851303cbc613124
 * JSONの操作
   * https://qiita.com/usayuki/items/130c9cab7766d2997a7b
-
-# jsonの設定
-複数設定できます。  
-サイズとかはPC/SPとかで定数を用意しておいた方が後々楽かもå
-
-```
-[
-  {
-    "name": "スクリーンショットのファイル名",
-    "url": "https://example.com/",
-    "width": 1280,
-    "height": 720,
-    "auth": {
-      "username": "basic認証のID",
-      "password": "basic認証のパスワード"
-    },
-    "waitTime": 5000
-  },
-  
-  ...
-
-]
-```

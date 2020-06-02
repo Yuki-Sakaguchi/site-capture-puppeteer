@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "capture": "node index.js"
+    "capture01": "cd ./capture01 && node index.js",
+    "capture02": "cd ./capture02 && node index.js"
   },
   "keywords": [],
   "author": "",

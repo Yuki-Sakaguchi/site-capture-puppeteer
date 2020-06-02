@@ -1,0 +1,12 @@
+[
+  {
+    "type": "pc",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "type": "iphone8",
+    "width": 375,
+    "height": 667
+  }
+]
